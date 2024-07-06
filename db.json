@@ -1,0 +1,47 @@
+{
+  "cabanas": [
+             { 
+    id:1,
+    photo:"https://rosasamarillas.com.ar/wp-content/uploads/2019/02/cabana-amarilla01.jpg",
+    name: "Estándar",
+    cantidadPersonas: 4,
+    superficie: "50 m2",
+    tarifa: "tarifa x noche",
+    descripcion: "La cabaña Suite ofrece un gran ambiente integrado: En la P.B cuenta con un sillón cama (se pueden armar 2 camas singles), mesa de comedor con sillas, hogar a leña, cocina equipada, baño completo con hidromasaje e increíbles vistas al lago. En P.A es un entrepiso balconeado al resto del ambiente, tiene una cama King Size con tv, aire acondicionado y ventanal en el techo. Deck exterior con juego de jardín : mesa, sillas, sombrilla y reposeras. Son cabañas aptas para 2 a 4 personas."
+},
+
+{ 
+  id:2,
+  photo:"https://rosasamarillas.com.ar/wp-content/uploads/2019/02/cabana-azul01.jpg",
+  name: "Mini House",
+  cantidadPersonas: 2,
+  superficie: "25 m2",
+  tarifa: "tarifa x noche",
+  descripcion: "Departamento monoambiente integrado con ventanales vista al lago, sommier matrimonial sino también se ofrece la opción de 2 camas singles, baño completo con hidromasaje, cocina integrada  y equipada con heladera, horno y microondas, tv."
+},
+
+{ 
+id:3,
+https:"//rosasamarillas.com.ar/wp-content/uploads/2019/02/cabana-rosa01.jpg",
+photo:"https://rosasamarillas.com.ar/wp-content/uploads/2019/02/cabana-blanca01.jpg",
+name: "Mini House",
+cantidadPersonas: 2,
+superficie: "25 m2",
+tarifa: "tarifa x noche",
+descripcion: "Departamento monoambiente integrado con ventanales vista al lago, sommier matrimonial sino también se ofrece la opción de 2 camas singles, baño completo con hidromasaje, cocina integrada  y equipada con heladera, horno y microondas, tv."
+},
+
+{ 
+id:4,
+https:"//rosasamarillas.com.ar/wp-content/uploads/2019/02/cabana-rosa01.jpg",
+photo:"",
+name: "Mini House",
+cantidadPersonas: 2,
+superficie: "25 m2",
+tarifa: "tarifa x noche",
+descripcion: "Departamento monoambiente integrado con ventanales vista al lago, sommier matrimonial sino también se ofrece la opción de 2 camas singles, baño completo con hidromasaje, cocina integrada  y equipada con heladera, horno y microondas, tv."
+}
+
+    
+ ]
+}
