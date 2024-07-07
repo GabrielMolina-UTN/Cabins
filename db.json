@@ -21,7 +21,7 @@
     {
       "id": 3,
       "photo": "https://rosasamarillas.com.ar/wp-content/uploads/2019/02/cabana-rosa01.jpg",
-      "name": "Mini House",
+      "name": "El Alto",
       "cantidadPersonas": 2,
       "superficie": "25 m2",
       "tarifa": "tarifa x noche",
@@ -30,7 +30,7 @@
     {
       "id": 4,
       "photo": "https://rosasamarillas.com.ar/wp-content/uploads/2019/02/cabana-rosa01.jpg",
-      "name": "Mini House",
+      "name": "La Piedra",
       "cantidadPersonas": 2,
       "superficie": "25 m2",
       "tarifa": "tarifa x noche",
